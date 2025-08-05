@@ -3,7 +3,7 @@
 Building a successful career goes beyond technical expertise—it requires strong thinking, intentional action, and strategic decision-making. The ability to navigate real-world challenges, manage priorities, and communicate value sets high-performing professionals apart. The following core skills are essential for anyone looking to grow, lead, and thrive in today’s dynamic work environment:
 
 * **Decision-Making**  
-  The ability to make thoughtful, informed choices—especially under pressure—is a critical career skill.
+  The ability to make thoughtful, informed choices—especially under pressure is a critical career skill.
 
   * *Risk Minimization:* Anticipate potential downsides and take steps to reduce unnecessary exposure.
 

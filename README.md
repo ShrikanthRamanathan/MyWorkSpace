@@ -12,7 +12,7 @@ Each module contains reading material, examples, and exercises. Navigate to each
   <details>
     <summary>📂 1-Welcome & Introduction</summary>
     <ul style="list-style:none; margin:0; padding-left:20px;">
-      <li style="list-style:none; margin:0; padding:0;">🧑‍💻 <a href="Training-Modules/1-Welcome-Introduction/01-Welcome-Page.md">Welcome Page</a></li>
+      <li style="list-style:none; margin:0; padding:0;">🧑‍💻 <a href="Welcome-Page.md">Welcome Page</a></li>
       <li style="list-style:none; margin:0; padding:0;">🎯 <a href="Training-Modules/1-Welcome-Introduction/02-Target-Audience.md">Target Audience</a></li>
     </ul>
   </details>

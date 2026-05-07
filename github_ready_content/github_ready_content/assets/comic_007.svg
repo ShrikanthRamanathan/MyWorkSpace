@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="332" viewBox="0 0 700 332">
+  <defs>
+    <filter id="shadow" x="-10%" y="-10%" width="120%" height="120%">
+      <feDropShadow dx="2" dy="2" stdDeviation="3" flood-opacity="0.15"/>
+    </filter>
+    <pattern id="dots" x="0" y="0" width="20" height="20" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1.5" fill="#00000008"/>
+    </pattern>
+  </defs>
+  <!-- Outer border -->
+  <rect x="0" y="0" width="700" height="332" rx="14" ry="14" fill="#263238" filter="url(#shadow)"/>
+  <!-- Title bar -->
+  <rect x="0" y="0" width="700" height="34" rx="14" ry="14" fill="#263238"/>
+  <rect x="0" y="14" width="700" height="20" fill="#263238"/>
+  <text x="350" y="24" text-anchor="middle" font-family="Arial Black, Impact" font-size="13" font-weight="900" fill="#FFC107" letter-spacing="1">🔥  DEVOTION — The Quiet Power of Showing Up Daily</text>
+  <!-- Content area -->
+  <rect x="4" y="34" width="692" height="290" rx="0" fill="#FFEBEE"/>
+  <rect x="4" y="34" width="692" height="290" rx="0" fill="url(#dots)"/>
+  <!-- Comic content -->
+  <g transform="translate(0, 34)">
+<rect x="0" y="0" width="700" height="260" fill="#FFEBEE"/><ellipse cx="120" cy="237" rx="18" ry="5" fill="#00000015"/>
+<rect x="103" y="175" width="34" height="38" rx="8" ry="8" fill="#B71C1C"/>
+<text x="120" y="198" text-anchor="middle" font-family="Arial" font-size="7" font-weight="bold" fill="white">HYPE</text>
+<rect x="106" y="213" width="10" height="22" rx="5" fill="#455A64"/>
+<rect x="124" y="213" width="10" height="22" rx="5" fill="#455A64"/>
+<ellipse cx="111" cy="235" rx="9" ry="5" fill="#263238"/>
+<ellipse cx="129" cy="235" rx="9" ry="5" fill="#263238"/>
+<line x1="103" y1="185" x2="90" y2="200" stroke="#B71C1C" stroke-width="9" stroke-linecap="round"/>
+<line x1="137" y1="185" x2="150" y2="197" stroke="#B71C1C" stroke-width="9" stroke-linecap="round"/>
+<rect x="114" y="161" width="12" height="16" rx="4" fill="#FFCC80"/>
+<circle cx="120" cy="149" r="22" fill="#FFCC80" stroke="#FFB74D" stroke-width="1.5"/>
+<ellipse cx="120" cy="131" rx="22" ry="10" fill="#5D4037"/>
+<rect x="98" y="127" width="44" height="12" rx="10" fill="#5D4037"/>
+<path d="M107,141 Q112,138 117,141" fill="none" stroke="#5D4037" stroke-width="2"/>
+<path d="M123,141 Q128,138 133,141" fill="none" stroke="#5D4037" stroke-width="2"/>
+<path d="M115,157 Q122,155 127,158" fill="none" stroke="#795548" stroke-width="2" stroke-linecap="round"/>
+<text x="120" y="251" text-anchor="middle" font-family="Arial" font-size="10" font-weight="bold" fill="#546E7A">Sprinter</text><rect x="15" y="25" width="200" height="75" rx="12" ry="12" fill="#FFCDD2" stroke="#B71C1C" stroke-width="1.8"/><polygon points="35,100 25,114 51,100" fill="#FFCDD2" stroke="#FFCDD2" stroke-width="1"/><polyline points="25,114 35,100" fill="none" stroke="#B71C1C" stroke-width="1.8"/><text x="115" y="51" text-anchor="middle" font-family="Comic Sans MS, Chalkboard SE, cursive" font-size="10" fill="#37474F">I'll grind for 10</text>
+<text x="115" y="65" text-anchor="middle" font-family="Comic Sans MS, Chalkboard SE, cursive" font-size="10" fill="#37474F">hours this weekend...</text>
+<text x="115" y="79" text-anchor="middle" font-family="Comic Sans MS, Chalkboard SE, cursive" font-size="10" fill="#37474F">then take a week off.</text>
+<rect x="20" y="155" width="230" height="18" rx="5" fill="#FFCDD2"/><rect x="20" y="155" width="90" height="18" rx="5" fill="#EF5350"/><text x="135" y="168" font-family="Arial" font-size="8" fill="#B71C1C">Inconsistent progress</text><ellipse cx="565" cy="237" rx="18" ry="5" fill="#00000015"/>
+<rect x="548" y="175" width="34" height="38" rx="8" ry="8" fill="#B71C1C"/>
+<text x="565" y="198" text-anchor="middle" font-family="Arial" font-size="7" font-weight="bold" fill="white">DAILY</text>
+<rect x="551" y="213" width="10" height="22" rx="5" fill="#455A64"/>
+<rect x="569" y="213" width="10" height="22" rx="5" fill="#455A64"/>
+<ellipse cx="556" cy="235" rx="9" ry="5" fill="#263238"/>
+<ellipse cx="574" cy="235" rx="9" ry="5" fill="#263238"/>
+<line x1="548" y1="185" x2="535" y2="200" stroke="#B71C1C" stroke-width="9" stroke-linecap="round"/>
+<line x1="582" y1="185" x2="595" y2="197" stroke="#B71C1C" stroke-width="9" stroke-linecap="round"/>
+<rect x="559" y="161" width="12" height="16" rx="4" fill="#FFCC80"/>
+<circle cx="565" cy="149" r="22" fill="#FFCC80" stroke="#FFB74D" stroke-width="1.5"/>
+<ellipse cx="565" cy="131" rx="22" ry="10" fill="#5D4037"/>
+<rect x="543" y="127" width="44" height="12" rx="10" fill="#5D4037"/>
+<circle cx="557" cy="146" r="3.5" fill="#37474F"/>
+<circle cx="573" cy="146" r="3.5" fill="#37474F"/>
+<circle cx="558" cy="145" r="1.2" fill="white"/>
+<circle cx="574" cy="145" r="1.2" fill="white"/>
+<path d="M552,141 Q557,138 562,141" fill="none" stroke="#5D4037" stroke-width="2"/>
+<path d="M568,141 Q573,138 578,141" fill="none" stroke="#5D4037" stroke-width="2"/>
+<path d="M558,155 Q565,161 572,155" fill="none" stroke="#795548" stroke-width="2" stroke-linecap="round"/>
+<text x="565" y="251" text-anchor="middle" font-family="Arial" font-size="10" font-weight="bold" fill="#546E7A">Consistent</text><rect x="440" y="25" width="210" height="75" rx="12" ry="12" fill="#FCE4EC" stroke="#B71C1C" stroke-width="1.8"/><polygon points="630,100 640,114 614,100" fill="#FCE4EC" stroke="#FCE4EC" stroke-width="1"/><polyline points="640,114 630,100" fill="none" stroke="#B71C1C" stroke-width="1.8"/><text x="545" y="51" text-anchor="middle" font-family="Comic Sans MS, Chalkboard SE, cursive" font-size="10" fill="#37474F">Just 20 minutes every</text>
+<text x="545" y="65" text-anchor="middle" font-family="Comic Sans MS, Chalkboard SE, cursive" font-size="10" fill="#37474F">day. Small. Steady. For</text>
+<text x="545" y="79" text-anchor="middle" font-family="Comic Sans MS, Chalkboard SE, cursive" font-size="10" fill="#37474F">90 days.</text>
+<rect x="440" y="155" width="230" height="18" rx="5" fill="#FFCDD2"/><rect x="440" y="155" width="215" height="18" rx="5" fill="#E91E63"/><text x="548" y="168" font-family="Arial" font-size="8" fill="white">Compounding growth 📈</text><circle cx="350" cy="130" r="25" fill="#880E4F"/><text x="350" y="135" text-anchor="middle" font-family="Arial Black" font-size="13" font-weight="900" fill="white">VS</text><text x="350" y="75" text-anchor="middle" font-size="26">🔥</text><text x="350" y="100" text-anchor="middle" font-family="Comic Sans MS, cursive" font-size="10" fill="#880E4F" font-weight="bold">Day 47 streak</text><rect x="50" y="222" width="600" height="28" rx="8" fill="#880E4F"/><text x="350" y="240" text-anchor="middle" font-family="Comic Sans MS, cursive" font-size="11" fill="white">Consistency beats intensity. Every. Single. Time. 🏆</text>
+  </g>
+  <rect x="4" y="302" width="692" height="22" fill="#37474F"/>
+  <text x="350" y="317" text-anchor="middle" font-family="Comic Sans MS, cursive" font-size="10" font-style="italic" fill="#B0BEC5">Your habits compound over time. Choose them wisely.</text>
+</svg>

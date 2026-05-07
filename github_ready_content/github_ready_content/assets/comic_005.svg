@@ -1,0 +1,74 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="312" viewBox="0 0 700 312">
+  <defs>
+    <filter id="shadow" x="-10%" y="-10%" width="120%" height="120%">
+      <feDropShadow dx="2" dy="2" stdDeviation="3" flood-opacity="0.15"/>
+    </filter>
+    <pattern id="dots" x="0" y="0" width="20" height="20" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1.5" fill="#00000008"/>
+    </pattern>
+  </defs>
+  <!-- Outer border -->
+  <rect x="0" y="0" width="700" height="312" rx="14" ry="14" fill="#263238" filter="url(#shadow)"/>
+  <!-- Title bar -->
+  <rect x="0" y="0" width="700" height="34" rx="14" ry="14" fill="#263238"/>
+  <rect x="0" y="14" width="700" height="20" fill="#263238"/>
+  <text x="350" y="24" text-anchor="middle" font-family="Arial Black, Impact" font-size="13" font-weight="900" fill="#FFC107" letter-spacing="1">🙏  GRATITUDE — The Most Underrated Career Skill</text>
+  <!-- Content area -->
+  <rect x="4" y="34" width="692" height="270" rx="0" fill="#FFF8E1"/>
+  <rect x="4" y="34" width="692" height="270" rx="0" fill="url(#dots)"/>
+  <!-- Comic content -->
+  <g transform="translate(0, 34)">
+<rect x="0" y="0" width="700" height="240" fill="#FFF8E1"/><ellipse cx="150" cy="222" rx="18" ry="5" fill="#00000015"/>
+<rect x="133" y="160" width="34" height="38" rx="8" ry="8" fill="#E65100"/>
+<text x="150" y="183" text-anchor="middle" font-family="Arial" font-size="7" font-weight="bold" fill="white">YOU</text>
+<rect x="136" y="198" width="10" height="22" rx="5" fill="#455A64"/>
+<rect x="154" y="198" width="10" height="22" rx="5" fill="#455A64"/>
+<ellipse cx="141" cy="220" rx="9" ry="5" fill="#263238"/>
+<ellipse cx="159" cy="220" rx="9" ry="5" fill="#263238"/>
+<line x1="133" y1="170" x2="120" y2="185" stroke="#E65100" stroke-width="9" stroke-linecap="round"/>
+<line x1="167" y1="170" x2="180" y2="182" stroke="#E65100" stroke-width="9" stroke-linecap="round"/>
+<rect x="144" y="146" width="12" height="16" rx="4" fill="#FFCC80"/>
+<circle cx="150" cy="134" r="22" fill="#FFCC80" stroke="#FFB74D" stroke-width="1.5"/>
+<ellipse cx="150" cy="116" rx="22" ry="10" fill="#5D4037"/>
+<rect x="128" y="112" width="44" height="12" rx="10" fill="#5D4037"/>
+<circle cx="142" cy="131" r="3.5" fill="#37474F"/>
+<circle cx="158" cy="131" r="3.5" fill="#37474F"/>
+<circle cx="143" cy="130" r="1.2" fill="white"/>
+<circle cx="159" cy="130" r="1.2" fill="white"/>
+<path d="M137,126 Q142,123 147,126" fill="none" stroke="#5D4037" stroke-width="2"/>
+<path d="M153,126 Q158,123 163,126" fill="none" stroke="#5D4037" stroke-width="2"/>
+<path d="M143,140 Q150,146 157,140" fill="none" stroke="#795548" stroke-width="2" stroke-linecap="round"/>
+<text x="150" y="236" text-anchor="middle" font-family="Arial" font-size="10" font-weight="bold" fill="#546E7A">You</text><ellipse cx="530" cy="222" rx="18" ry="5" fill="#00000015"/>
+<rect x="513" y="160" width="34" height="38" rx="8" ry="8" fill="#1565C0"/>
+<text x="530" y="183" text-anchor="middle" font-family="Arial" font-size="7" font-weight="bold" fill="white">TEAM</text>
+<rect x="516" y="198" width="10" height="22" rx="5" fill="#455A64"/>
+<rect x="534" y="198" width="10" height="22" rx="5" fill="#455A64"/>
+<ellipse cx="521" cy="220" rx="9" ry="5" fill="#263238"/>
+<ellipse cx="539" cy="220" rx="9" ry="5" fill="#263238"/>
+<line x1="513" y1="170" x2="500" y2="185" stroke="#1565C0" stroke-width="9" stroke-linecap="round"/>
+<line x1="547" y1="170" x2="560" y2="182" stroke="#1565C0" stroke-width="9" stroke-linecap="round"/>
+<rect x="524" y="146" width="12" height="16" rx="4" fill="#FFCC80"/>
+<circle cx="530" cy="134" r="22" fill="#FFCC80" stroke="#FFB74D" stroke-width="1.5"/>
+<ellipse cx="530" cy="116" rx="22" ry="10" fill="#5D4037"/>
+<rect x="508" y="112" width="44" height="12" rx="10" fill="#5D4037"/>
+<path d="M517,124 Q522,120 527,124" fill="none" stroke="#37474F" stroke-width="2"/>
+<path d="M533,124 Q538,120 543,124" fill="none" stroke="#37474F" stroke-width="2"/>
+<circle cx="522" cy="131" r="4.5" fill="#37474F"/>
+<circle cx="538" cy="131" r="4.5" fill="#37474F"/>
+<ellipse cx="530" cy="142" rx="5" ry="7" fill="#795548"/>
+<text x="530" y="236" text-anchor="middle" font-family="Arial" font-size="10" font-weight="bold" fill="#546E7A">Teammate</text><g transform="translate(290, 95) rotate(-8)">
+      <rect x="0" y="0" width="110" height="70" rx="6" fill="#FFFDE7" stroke="#FBC02D" stroke-width="2"/>
+      <line x1="10" y1="22" x2="100" y2="22" stroke="#FBC02D" stroke-width="1.2"/>
+      <line x1="10" y1="34" x2="100" y2="34" stroke="#FBC02D" stroke-width="1.2"/>
+      <line x1="10" y1="46" x2="80" y2="46" stroke="#FBC02D" stroke-width="1.2"/>
+      <text x="55" y="16" text-anchor="middle" font-family="Comic Sans MS, cursive" font-size="11" font-weight="bold" fill="#E65100">Thank You! 🙏</text>
+      <text x="55" y="56" text-anchor="middle" font-family="Comic Sans MS, cursive" font-size="8" fill="#5D4037">Your help made</text>
+      <text x="55" y="66" text-anchor="middle" font-family="Comic Sans MS, cursive" font-size="8" fill="#5D4037">the difference.</text>
+    </g><line x1="210" y1="130" x2="290" y2="125" stroke="#FBC02D" stroke-width="1.5" stroke-dasharray="4,3"/><line x1="400" y1="125" x2="475" y2="130" stroke="#FBC02D" stroke-width="1.5" stroke-dasharray="4,3"/><text x="340" y="55" text-anchor="middle" font-size="14">❤️</text><text x="370" y="40" text-anchor="middle" font-size="10">❤️</text><text x="310" y="45" text-anchor="middle" font-size="8">❤️</text><rect x="455" y="25" width="220" height="65" rx="12" ry="12" fill="#E3F2FD" stroke="#1565C0" stroke-width="1.8"/><polygon points="655,90 665,104 639,90" fill="#E3F2FD" stroke="#E3F2FD" stroke-width="1"/><polyline points="665,104 655,90" fill="none" stroke="#1565C0" stroke-width="1.8"/><text x="565" y="46" text-anchor="middle" font-family="Comic Sans MS, Chalkboard SE, cursive" font-size="10" fill="#37474F">Wow... nobody's ever said</text>
+<text x="565" y="60" text-anchor="middle" font-family="Comic Sans MS, Chalkboard SE, cursive" font-size="10" fill="#37474F">that to me before. Thank</text>
+<text x="565" y="74" text-anchor="middle" font-family="Comic Sans MS, Chalkboard SE, cursive" font-size="10" fill="#37474F">you!</text>
+<rect x="50" y="205" width="600" height="26" rx="8" fill="#E65100"/><text x="350" y="222" text-anchor="middle" font-family="Comic Sans MS, cursive" font-size="11" fill="white">Small habit. Massive ripple effect. 🌊</text>
+  </g>
+  <rect x="4" y="282" width="692" height="22" fill="#37474F"/>
+  <text x="350" y="297" text-anchor="middle" font-family="Comic Sans MS, cursive" font-size="10" font-style="italic" fill="#B0BEC5">A sincere 'thank you' is never small. It's a trust builder.</text>
+</svg>

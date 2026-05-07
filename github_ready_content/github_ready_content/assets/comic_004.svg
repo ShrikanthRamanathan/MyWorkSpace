@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="332" viewBox="0 0 700 332">
+  <defs>
+    <filter id="shadow" x="-10%" y="-10%" width="120%" height="120%">
+      <feDropShadow dx="2" dy="2" stdDeviation="3" flood-opacity="0.15"/>
+    </filter>
+    <pattern id="dots" x="0" y="0" width="20" height="20" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1.5" fill="#00000008"/>
+    </pattern>
+  </defs>
+  <!-- Outer border -->
+  <rect x="0" y="0" width="700" height="332" rx="14" ry="14" fill="#263238" filter="url(#shadow)"/>
+  <!-- Title bar -->
+  <rect x="0" y="0" width="700" height="34" rx="14" ry="14" fill="#263238"/>
+  <rect x="0" y="14" width="700" height="20" fill="#263238"/>
+  <text x="350" y="24" text-anchor="middle" font-family="Arial Black, Impact" font-size="13" font-weight="900" fill="#FFC107" letter-spacing="1">💜  KINDNESS & RESPECT — How you say it matters</text>
+  <!-- Content area -->
+  <rect x="4" y="34" width="692" height="290" rx="0" fill="#F3E5F5"/>
+  <rect x="4" y="34" width="692" height="290" rx="0" fill="url(#dots)"/>
+  <!-- Comic content -->
+  <g transform="translate(0, 34)">
+<rect x="0" y="0" width="700" height="260" fill="#F3E5F5"/><line x1="233" y1="0" x2="233" y2="260" stroke="#CE93D8" stroke-width="1.5" stroke-dasharray="5,4"/><line x1="467" y1="0" x2="467" y2="260" stroke="#CE93D8" stroke-width="1.5" stroke-dasharray="5,4"/><rect x="0" y="0" width="233" height="30" fill="#B71C1C30"/><text x="116" y="20" text-anchor="middle" font-family="Arial Black" font-size="9" fill="#B71C1C">❌ WITHOUT KINDNESS</text><ellipse cx="116" cy="237" rx="18" ry="5" fill="#00000015"/>
+<rect x="99" y="175" width="34" height="38" rx="8" ry="8" fill="#B71C1C"/>
+<text x="116" y="198" text-anchor="middle" font-family="Arial" font-size="7" font-weight="bold" fill="white">BOSS</text>
+<rect x="102" y="213" width="10" height="22" rx="5" fill="#455A64"/>
+<rect x="120" y="213" width="10" height="22" rx="5" fill="#455A64"/>
+<ellipse cx="107" cy="235" rx="9" ry="5" fill="#263238"/>
+<ellipse cx="125" cy="235" rx="9" ry="5" fill="#263238"/>
+<line x1="99" y1="185" x2="86" y2="200" stroke="#B71C1C" stroke-width="9" stroke-linecap="round"/>
+<line x1="133" y1="185" x2="146" y2="197" stroke="#B71C1C" stroke-width="9" stroke-linecap="round"/>
+<rect x="110" y="161" width="12" height="16" rx="4" fill="#FFCC80"/>
+<circle cx="116" cy="149" r="22" fill="#FFCC80" stroke="#FFB74D" stroke-width="1.5"/>
+<ellipse cx="116" cy="131" rx="22" ry="10" fill="#5D4037"/>
+<rect x="94" y="127" width="44" height="12" rx="10" fill="#5D4037"/>
+<circle cx="108" cy="146" r="3.5" fill="#37474F"/>
+<circle cx="124" cy="146" r="3.5" fill="#37474F"/>
+<circle cx="109" cy="145" r="1.2" fill="white"/>
+<circle cx="125" cy="145" r="1.2" fill="white"/>
+<path d="M103,141 Q108,138 113,141" fill="none" stroke="#5D4037" stroke-width="2"/>
+<path d="M119,141 Q124,138 129,141" fill="none" stroke="#5D4037" stroke-width="2"/>
+<line x1="110" y1="156" x2="122" y2="156" stroke="#795548" stroke-width="2" stroke-linecap="round"/><rect x="15" y="40" width="200" height="70" rx="12" ry="12" fill="#FFEBEE" stroke="#B71C1C" stroke-width="1.8"/><polygon points="35,110 25,124 51,110" fill="#FFEBEE" stroke="#FFEBEE" stroke-width="1"/><polyline points="25,124 35,110" fill="none" stroke="#B71C1C" stroke-width="1.8"/><text x="115" y="71" text-anchor="middle" font-family="Comic Sans MS, Chalkboard SE, cursive" font-size="10" fill="#37474F">This is terrible. Did</text>
+<text x="115" y="85" text-anchor="middle" font-family="Comic Sans MS, Chalkboard SE, cursive" font-size="10" fill="#37474F">you even try?</text>
+<circle cx="350" cy="130" r="22" fill="#6A1B9A"/><text x="350" y="135" text-anchor="middle" font-family="Arial Black" font-size="11" font-weight="900" fill="white">VS</text><text x="350" y="80" text-anchor="middle" font-size="28">❤️</text><rect x="467" y="0" width="233" height="30" fill="#1B5E2030"/><text x="583" y="20" text-anchor="middle" font-family="Arial Black" font-size="9" fill="#2E7D32">✅ WITH KINDNESS</text><ellipse cx="583" cy="237" rx="18" ry="5" fill="#00000015"/>
+<rect x="566" y="175" width="34" height="38" rx="8" ry="8" fill="#2E7D32"/>
+<text x="583" y="198" text-anchor="middle" font-family="Arial" font-size="7" font-weight="bold" fill="white">LEAD</text>
+<rect x="569" y="213" width="10" height="22" rx="5" fill="#455A64"/>
+<rect x="587" y="213" width="10" height="22" rx="5" fill="#455A64"/>
+<ellipse cx="574" cy="235" rx="9" ry="5" fill="#263238"/>
+<ellipse cx="592" cy="235" rx="9" ry="5" fill="#263238"/>
+<line x1="566" y1="185" x2="553" y2="200" stroke="#2E7D32" stroke-width="9" stroke-linecap="round"/>
+<line x1="600" y1="185" x2="613" y2="197" stroke="#2E7D32" stroke-width="9" stroke-linecap="round"/>
+<rect x="577" y="161" width="12" height="16" rx="4" fill="#FFCC80"/>
+<circle cx="583" cy="149" r="22" fill="#FFCC80" stroke="#FFB74D" stroke-width="1.5"/>
+<ellipse cx="583" cy="131" rx="22" ry="10" fill="#5D4037"/>
+<rect x="561" y="127" width="44" height="12" rx="10" fill="#5D4037"/>
+<circle cx="575" cy="146" r="3.5" fill="#37474F"/>
+<circle cx="591" cy="146" r="3.5" fill="#37474F"/>
+<circle cx="576" cy="145" r="1.2" fill="white"/>
+<circle cx="592" cy="145" r="1.2" fill="white"/>
+<path d="M570,141 Q575,138 580,141" fill="none" stroke="#5D4037" stroke-width="2"/>
+<path d="M586,141 Q591,138 596,141" fill="none" stroke="#5D4037" stroke-width="2"/>
+<path d="M576,155 Q583,161 590,155" fill="none" stroke="#795548" stroke-width="2" stroke-linecap="round"/><rect x="470" y="40" width="210" height="90" rx="12" ry="12" fill="#E8F5E9" stroke="#2E7D32" stroke-width="1.8"/><polygon points="660,130 670,144 644,130" fill="#E8F5E9" stroke="#E8F5E9" stroke-width="1"/><polyline points="670,144 660,130" fill="none" stroke="#2E7D32" stroke-width="1.8"/><text x="575" y="74" text-anchor="middle" font-family="Comic Sans MS, Chalkboard SE, cursive" font-size="10" fill="#37474F">Good start. Here's what</text>
+<text x="575" y="88" text-anchor="middle" font-family="Comic Sans MS, Chalkboard SE, cursive" font-size="10" fill="#37474F">I'd change — want to try</text>
+<text x="575" y="102" text-anchor="middle" font-family="Comic Sans MS, Chalkboard SE, cursive" font-size="10" fill="#37474F">together?</text>
+<rect x="50" y="218" width="600" height="30" rx="8" fill="#6A1B9A80"/><text x="350" y="237" text-anchor="middle" font-family="Comic Sans MS, cursive" font-size="11" fill="#FFFFFF">Same message. Completely different impact.</text>
+  </g>
+  <rect x="4" y="302" width="692" height="22" fill="#37474F"/>
+  <text x="350" y="317" text-anchor="middle" font-family="Comic Sans MS, cursive" font-size="10" font-style="italic" fill="#B0BEC5">Lead with empathy. Especially under pressure.</text>
+</svg>

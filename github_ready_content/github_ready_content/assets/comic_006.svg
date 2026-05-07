@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="332" viewBox="0 0 700 332">
+  <defs>
+    <filter id="shadow" x="-10%" y="-10%" width="120%" height="120%">
+      <feDropShadow dx="2" dy="2" stdDeviation="3" flood-opacity="0.15"/>
+    </filter>
+    <pattern id="dots" x="0" y="0" width="20" height="20" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1.5" fill="#00000008"/>
+    </pattern>
+  </defs>
+  <!-- Outer border -->
+  <rect x="0" y="0" width="700" height="332" rx="14" ry="14" fill="#263238" filter="url(#shadow)"/>
+  <!-- Title bar -->
+  <rect x="0" y="0" width="700" height="34" rx="14" ry="14" fill="#263238"/>
+  <rect x="0" y="14" width="700" height="20" fill="#263238"/>
+  <text x="350" y="24" text-anchor="middle" font-family="Arial Black, Impact" font-size="13" font-weight="900" fill="#FFC107" letter-spacing="1">🌿  ACCEPTANCE — Own It, Then Move Forward</text>
+  <!-- Content area -->
+  <rect x="4" y="34" width="692" height="290" rx="0" fill="#E0F2F1"/>
+  <rect x="4" y="34" width="692" height="290" rx="0" fill="url(#dots)"/>
+  <!-- Comic content -->
+  <g transform="translate(0, 34)">
+<rect x="0" y="0" width="700" height="260" fill="#E0F2F1"/><line x1="350" y1="0" x2="350" y2="260" stroke="#B2DFDB" stroke-width="2" stroke-dasharray="6,4"/><rect x="0" y="0" width="350" height="28" fill="#B71C1C25"/><text x="175" y="19" text-anchor="middle" font-family="Arial Black" font-size="9" fill="#B71C1C">😤 VICTIM MINDSET</text><ellipse cx="130" cy="242" rx="18" ry="5" fill="#00000015"/>
+<rect x="113" y="180" width="34" height="38" rx="8" ry="8" fill="#B71C1C"/>
+<text x="130" y="203" text-anchor="middle" font-family="Arial" font-size="7" font-weight="bold" fill="white">WHY ME</text>
+<rect x="116" y="218" width="10" height="22" rx="5" fill="#455A64"/>
+<rect x="134" y="218" width="10" height="22" rx="5" fill="#455A64"/>
+<ellipse cx="121" cy="240" rx="9" ry="5" fill="#263238"/>
+<ellipse cx="139" cy="240" rx="9" ry="5" fill="#263238"/>
+<line x1="113" y1="190" x2="100" y2="205" stroke="#B71C1C" stroke-width="9" stroke-linecap="round"/>
+<line x1="147" y1="190" x2="160" y2="202" stroke="#B71C1C" stroke-width="9" stroke-linecap="round"/>
+<rect x="124" y="166" width="12" height="16" rx="4" fill="#FFCC80"/>
+<circle cx="130" cy="154" r="22" fill="#FFCC80" stroke="#FFB74D" stroke-width="1.5"/>
+<ellipse cx="130" cy="136" rx="22" ry="10" fill="#5D4037"/>
+<rect x="108" y="132" width="44" height="12" rx="10" fill="#5D4037"/>
+<path d="M117,146 Q122,143 127,146" fill="none" stroke="#5D4037" stroke-width="2"/>
+<path d="M133,146 Q138,143 143,146" fill="none" stroke="#5D4037" stroke-width="2"/>
+<path d="M125,162 Q132,160 137,163" fill="none" stroke="#795548" stroke-width="2" stroke-linecap="round"/><rect x="20" y="38" width="210" height="90" rx="12" ry="12" fill="#FFEBEE" stroke="#B71C1C" stroke-width="1.8"/><polygon points="40,128 30,142 56,128" fill="#FFEBEE" stroke="#FFEBEE" stroke-width="1"/><polyline points="30,142 40,128" fill="none" stroke="#B71C1C" stroke-width="1.8"/><text x="125" y="72" text-anchor="middle" font-family="Comic Sans MS, Chalkboard SE, cursive" font-size="10" fill="#37474F">It's not my fault! The</text>
+<text x="125" y="86" text-anchor="middle" font-family="Comic Sans MS, Chalkboard SE, cursive" font-size="10" fill="#37474F">requirements changed. The</text>
+<text x="125" y="100" text-anchor="middle" font-family="Comic Sans MS, Chalkboard SE, cursive" font-size="10" fill="#37474F">team failed me.</text>
+<rect x="350" y="0" width="350" height="28" fill="#00695C25"/><text x="525" y="19" text-anchor="middle" font-family="Arial Black" font-size="9" fill="#00796B">✅ ACCEPTANCE MINDSET</text><ellipse cx="550" cy="242" rx="18" ry="5" fill="#00000015"/>
+<rect x="533" y="180" width="34" height="38" rx="8" ry="8" fill="#00796B"/>
+<text x="550" y="203" text-anchor="middle" font-family="Arial" font-size="7" font-weight="bold" fill="white">OWN IT</text>
+<rect x="536" y="218" width="10" height="22" rx="5" fill="#455A64"/>
+<rect x="554" y="218" width="10" height="22" rx="5" fill="#455A64"/>
+<ellipse cx="541" cy="240" rx="9" ry="5" fill="#263238"/>
+<ellipse cx="559" cy="240" rx="9" ry="5" fill="#263238"/>
+<line x1="533" y1="190" x2="520" y2="205" stroke="#00796B" stroke-width="9" stroke-linecap="round"/>
+<line x1="567" y1="190" x2="580" y2="202" stroke="#00796B" stroke-width="9" stroke-linecap="round"/>
+<rect x="544" y="166" width="12" height="16" rx="4" fill="#FFCC80"/>
+<circle cx="550" cy="154" r="22" fill="#FFCC80" stroke="#FFB74D" stroke-width="1.5"/>
+<ellipse cx="550" cy="136" rx="22" ry="10" fill="#5D4037"/>
+<rect x="528" y="132" width="44" height="12" rx="10" fill="#5D4037"/>
+<circle cx="542" cy="151" r="3.5" fill="#37474F"/>
+<circle cx="558" cy="151" r="3.5" fill="#37474F"/>
+<circle cx="543" cy="150" r="1.2" fill="white"/>
+<circle cx="559" cy="150" r="1.2" fill="white"/>
+<path d="M537,146 Q542,143 547,146" fill="none" stroke="#5D4037" stroke-width="2"/>
+<path d="M553,146 Q558,143 563,146" fill="none" stroke="#5D4037" stroke-width="2"/>
+<path d="M543,160 Q550,166 557,160" fill="none" stroke="#795548" stroke-width="2" stroke-linecap="round"/><rect x="355" y="38" width="210" height="90" rx="12" ry="12" fill="#E0F2F1" stroke="#00796B" stroke-width="1.8"/><polygon points="545,128 555,142 529,128" fill="#E0F2F1" stroke="#E0F2F1" stroke-width="1"/><polyline points="555,142 545,128" fill="none" stroke="#00796B" stroke-width="1.8"/><text x="460" y="72" text-anchor="middle" font-family="Comic Sans MS, Chalkboard SE, cursive" font-size="10" fill="#37474F">Requirements changed. What</text>
+<text x="460" y="86" text-anchor="middle" font-family="Comic Sans MS, Chalkboard SE, cursive" font-size="10" fill="#37474F">can I control right now?</text>
+<text x="460" y="100" text-anchor="middle" font-family="Comic Sans MS, Chalkboard SE, cursive" font-size="10" fill="#37474F">Let's adapt.</text>
+<path d="M130,200 C130,175 200,165 265,160" fill="none" stroke="#EF5350" stroke-width="2" stroke-dasharray="5,3"/><text x="160" y="195" font-family="Comic Sans MS, cursive" font-size="9" fill="#B71C1C">stays stuck</text><path d="M550,200 C550,175 480,165 415,160" fill="none" stroke="#26A69A" stroke-width="2" stroke-dasharray="5,3"/><text x="455" y="195" font-family="Comic Sans MS, cursive" font-size="9" fill="#00796B">moves forward</text><rect x="50" y="222" width="600" height="28" rx="8" fill="#00796B"/><text x="350" y="240" text-anchor="middle" font-family="Comic Sans MS, cursive" font-size="11" fill="white">You can't control what happens. You control how you respond.</text>
+  </g>
+  <rect x="4" y="302" width="692" height="22" fill="#37474F"/>
+  <text x="350" y="317" text-anchor="middle" font-family="Comic Sans MS, cursive" font-size="10" font-style="italic" fill="#B0BEC5">Acceptance is not giving up. It is the foundation for real growth.</text>
+</svg>

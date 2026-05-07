@@ -1,0 +1,74 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="312" viewBox="0 0 700 312">
+  <defs>
+    <filter id="shadow" x="-10%" y="-10%" width="120%" height="120%">
+      <feDropShadow dx="2" dy="2" stdDeviation="3" flood-opacity="0.15"/>
+    </filter>
+    <pattern id="dots" x="0" y="0" width="20" height="20" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1.5" fill="#00000008"/>
+    </pattern>
+  </defs>
+  <!-- Outer border -->
+  <rect x="0" y="0" width="700" height="312" rx="14" ry="14" fill="#263238" filter="url(#shadow)"/>
+  <!-- Title bar -->
+  <rect x="0" y="0" width="700" height="34" rx="14" ry="14" fill="#263238"/>
+  <rect x="0" y="14" width="700" height="20" fill="#263238"/>
+  <text x="350" y="24" text-anchor="middle" font-family="Arial Black, Impact" font-size="13" font-weight="900" fill="#FFC107" letter-spacing="1">⚡  WHY CHARACTER MATTERS</text>
+  <!-- Content area -->
+  <rect x="4" y="34" width="692" height="270" rx="0" fill="#FAFAFA"/>
+  <rect x="4" y="34" width="692" height="270" rx="0" fill="url(#dots)"/>
+  <!-- Comic content -->
+  <g transform="translate(0, 34)">
+<rect x="0" y="0" width="700" height="240" fill="#FAFAFA"/><line x1="350" y1="0" x2="350" y2="240" stroke="#CFD8DC" stroke-width="2" stroke-dasharray="6,4"/><ellipse cx="120" cy="222" rx="18" ry="5" fill="#00000015"/>
+<rect x="103" y="160" width="34" height="38" rx="8" ry="8" fill="#1565C0"/>
+<text x="120" y="183" text-anchor="middle" font-family="Arial" font-size="7" font-weight="bold" fill="white">CODE</text>
+<rect x="106" y="198" width="10" height="22" rx="5" fill="#455A64"/>
+<rect x="124" y="198" width="10" height="22" rx="5" fill="#455A64"/>
+<ellipse cx="111" cy="220" rx="9" ry="5" fill="#263238"/>
+<ellipse cx="129" cy="220" rx="9" ry="5" fill="#263238"/>
+<line x1="103" y1="170" x2="90" y2="185" stroke="#1565C0" stroke-width="9" stroke-linecap="round"/>
+<line x1="137" y1="170" x2="150" y2="182" stroke="#1565C0" stroke-width="9" stroke-linecap="round"/>
+<rect x="114" y="146" width="12" height="16" rx="4" fill="#FFCC80"/>
+<circle cx="120" cy="134" r="22" fill="#FFCC80" stroke="#FFB74D" stroke-width="1.5"/>
+<ellipse cx="120" cy="116" rx="22" ry="10" fill="#5D4037"/>
+<rect x="98" y="112" width="44" height="12" rx="10" fill="#5D4037"/>
+<path d="M107,126 Q112,123 117,126" fill="none" stroke="#5D4037" stroke-width="2"/>
+<path d="M123,126 Q128,123 133,126" fill="none" stroke="#5D4037" stroke-width="2"/>
+<path d="M115,142 Q122,140 127,143" fill="none" stroke="#795548" stroke-width="2" stroke-linecap="round"/>
+<text x="120" y="236" text-anchor="middle" font-family="Arial" font-size="10" font-weight="bold" fill="#546E7A">Intern</text><rect x="160" y="40" width="175" height="80" rx="12" ry="12" fill="#FFFDE7" stroke="#FBC02D" stroke-width="1.8"/><polygon points="180,120 170,134 196,120" fill="#FFFDE7" stroke="#FFFDE7" stroke-width="1"/><polyline points="170,134 180,120" fill="none" stroke="#FBC02D" stroke-width="1.8"/><text x="247" y="69" text-anchor="middle" font-family="Comic Sans MS, Chalkboard SE, cursive" font-size="10" fill="#37474F">I crushed the coding</text>
+<text x="247" y="83" text-anchor="middle" font-family="Comic Sans MS, Chalkboard SE, cursive" font-size="10" fill="#37474F">test. Why do I even</text>
+<text x="247" y="97" text-anchor="middle" font-family="Comic Sans MS, Chalkboard SE, cursive" font-size="10" fill="#37474F">need 'values'?</text>
+<ellipse cx="530" cy="222" rx="18" ry="5" fill="#00000015"/>
+<rect x="513" y="160" width="34" height="38" rx="8" ry="8" fill="#2E7D32"/>
+<text x="530" y="183" text-anchor="middle" font-family="Arial" font-size="7" font-weight="bold" fill="white">10 YRS</text>
+<rect x="516" y="198" width="10" height="22" rx="5" fill="#455A64"/>
+<rect x="534" y="198" width="10" height="22" rx="5" fill="#455A64"/>
+<ellipse cx="521" cy="220" rx="9" ry="5" fill="#263238"/>
+<ellipse cx="539" cy="220" rx="9" ry="5" fill="#263238"/>
+<line x1="513" y1="170" x2="500" y2="185" stroke="#2E7D32" stroke-width="9" stroke-linecap="round"/>
+<line x1="547" y1="170" x2="560" y2="182" stroke="#2E7D32" stroke-width="9" stroke-linecap="round"/>
+<rect x="524" y="146" width="12" height="16" rx="4" fill="#FFCC80"/>
+<circle cx="530" cy="134" r="22" fill="#FFCC80" stroke="#FFB74D" stroke-width="1.5"/>
+<ellipse cx="530" cy="116" rx="22" ry="10" fill="#37474F"/>
+<rect x="508" y="112" width="44" height="12" rx="10" fill="#37474F"/>
+<circle cx="522" cy="131" r="3.5" fill="#37474F"/>
+<circle cx="538" cy="131" r="3.5" fill="#37474F"/>
+<circle cx="523" cy="130" r="1.2" fill="white"/>
+<circle cx="539" cy="130" r="1.2" fill="white"/>
+<path d="M517,126 Q522,123 527,126" fill="none" stroke="#5D4037" stroke-width="2"/>
+<path d="M533,126 Q538,123 543,126" fill="none" stroke="#5D4037" stroke-width="2"/>
+<path d="M523,140 Q530,146 537,140" fill="none" stroke="#795548" stroke-width="2" stroke-linecap="round"/>
+<text x="530" y="236" text-anchor="middle" font-family="Arial" font-size="10" font-weight="bold" fill="#546E7A">Mentor</text><rect x="355" y="30" width="185" height="95" rx="12" ry="12" fill="#E8F5E9" stroke="#2E7D32" stroke-width="1.8"/><polygon points="520,125 530,139 504,125" fill="#E8F5E9" stroke="#E8F5E9" stroke-width="1"/><polyline points="530,139 520,125" fill="none" stroke="#2E7D32" stroke-width="1.8"/><text x="447" y="59" text-anchor="middle" font-family="Comic Sans MS, Chalkboard SE, cursive" font-size="10" fill="#37474F">Skills get you in the</text>
+<text x="447" y="73" text-anchor="middle" font-family="Comic Sans MS, Chalkboard SE, cursive" font-size="10" fill="#37474F">door. Values decide how</text>
+<text x="447" y="87" text-anchor="middle" font-family="Comic Sans MS, Chalkboard SE, cursive" font-size="10" fill="#37474F">far you go — and who</text>
+<text x="447" y="101" text-anchor="middle" font-family="Comic Sans MS, Chalkboard SE, cursive" font-size="10" fill="#37474F">trusts you.</text>
+<g transform="translate(325, 90)">
+      <ellipse cx="0" cy="0" rx="16" ry="18" fill="#FFF176" stroke="#F9A825" stroke-width="2"/>
+      <rect x="-6" y="14" width="12" height="6" rx="2" fill="#F9A825"/>
+      <line x1="0" y1="-22" x2="0" y2="-28" stroke="#F9A825" stroke-width="2.5"/>
+      <line x1="18" y1="-8" x2="23" y2="-11" stroke="#F9A825" stroke-width="2.5"/>
+      <line x1="-18" y1="-8" x2="-23" y2="-11" stroke="#F9A825" stroke-width="2.5"/>
+    </g>
+  </g>
+  <rect x="4" y="282" width="692" height="22" fill="#37474F"/>
+  <text x="350" y="297" text-anchor="middle" font-family="Comic Sans MS, cursive" font-size="10" font-style="italic" fill="#B0BEC5">Technical skills open doors. Character determines how far you go.</text>
+</svg>
